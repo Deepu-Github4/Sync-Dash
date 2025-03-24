@@ -1,0 +1,53 @@
+# Unity `.gitignore` Template
+
+# Ignore auto-generated directories
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# Ignore crash reports, temporary files, and Unity locks
+/[Cc]rashReports/
+/[Mm]emoryCaptures/
+/[Uu]serSettings/
+
+# Ignore .vs code and Rider files
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.booproj
+*.svd
+
+# Ignore Gradle & Android build files
+.gradle/
+!gradle-wrapper.jar
+*.apk
+*.aab
+*.keystore
+
+# Ignore generated lighting data
+[Ll]ightmapSnapshot
+
+# Ignore log files
+*.log
+*.pidb
+*.pdb
+*.opendb
+*.VC.db
+*.DS_Store
+
+# Ignore ProBuilder autosave files
+/Assets/ProCore/ProBuilder/Data/
+
+# Ignore build artifacts and cache files
+[Bb]uilds/
+[Bb]uild/
+[Ll]ibrary/
