@@ -15,4 +15,4 @@
 ## 📥 Installation
 ### **Clone the Repository**
 ```sh
-git clone https://github.com/Deepu-Github4/SyncDash.git
+git clone https://github.com/Deepu-Github4/Sync-Dash.git
